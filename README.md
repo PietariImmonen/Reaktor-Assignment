@@ -17,3 +17,11 @@ Technologies used in Back-End:
 Running in here:
 
 https://master.d2rbudn3q7i94w.amplifyapp.com/
+
+----------
+
+BACKEND here:
+
+https://github.com/PietariImmonen/Reaktor-backend
+
+
