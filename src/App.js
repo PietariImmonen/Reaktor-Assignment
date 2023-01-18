@@ -12,7 +12,9 @@ function App() {
     setDroneData(datas)
   };
   //Doing the getData function every 2 seconds
-  useEffect(() => {setInterval(getData, 2000)}, [])
+  useEffect(() => {
+    getData()
+    setInterval(getData, 2000)}, [])
 
   return (
     <div className="App">
