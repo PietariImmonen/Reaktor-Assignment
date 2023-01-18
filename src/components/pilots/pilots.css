@@ -1,0 +1,11 @@
+.pilots-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    gap: 20px;
+}
+@media only screen and (max-width: 1000px) {
+    .pilots-container {
+        display: flex;
+        flex-direction: column;
+    }
+  }

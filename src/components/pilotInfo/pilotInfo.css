@@ -1,0 +1,13 @@
+.pilot-container {
+    display: grid;
+    padding: 2rem;
+    border-radius: 1rem;
+    gap: 10px;
+    background: #e4e4e4;
+    max-width: 500px;
+}
+
+.pilot-text {
+    font-size: 24px;
+    color: #060606;
+}
