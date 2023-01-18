@@ -12,3 +12,8 @@ Technologies used in Back-End:
 1. Node.js
 2. Express.js
 3. Some basic JavaScript
+
+------
+Running in here:
+
+https://master.d2rbudn3q7i94w.amplifyapp.com/
