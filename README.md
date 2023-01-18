@@ -1,4 +1,4 @@
-To run this project, clone the repository to your laptop or mac and after that run npm install and then npm RUN
+To run this project, clone the repository to your laptop or mac and after that run "npm install" and then "npm run"
 
 ----------
 
